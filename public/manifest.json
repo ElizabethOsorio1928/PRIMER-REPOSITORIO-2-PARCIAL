@@ -1,0 +1,15 @@
+{
+ "short_name": "movil2",
+ "name": "Ejemplo de PWA 2",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "orange",
+ "theme_color": "black",
+ "icons": [
+   {
+     "src": "img/gato.png",
+     "sizes": "1024x1024",
+     "type": "image/png"
+   }
+ ]
+}
